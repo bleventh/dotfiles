@@ -48,7 +48,7 @@ alias unix3='ssh bleventh@unix3.csc.calpoly.edu'
 alias unix4='ssh bleventh@unix4.csc.calpoly.edu'
 
 # Work ssh addresses.
-alias cmr='ssh bleventh@cominor.com'
+alias cmr='ssh bleventhal@cominor.com'
 alias troll='ssh ifixit@Picture-Frame-Mini.local'
 alias lb='live_ssh ifixit.com'
 alias db='live_ssh db.ifixit.com'
