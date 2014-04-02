@@ -41,14 +41,14 @@ alias vo="vim -o"
 alias vO="vim -O"
 
 # School ssh addresses.
-alias multi='ssh chpatton@multicore.csc.calpoly.edu'
-alias unix1='ssh chpatton@unix1.csc.calpoly.edu'
-alias unix2='ssh chpatton@unix2.csc.calpoly.edu'
-alias unix3='ssh chpatton@unix3.csc.calpoly.edu'
-alias unix4='ssh chpatton@unix4.csc.calpoly.edu'
+alias multi='ssh bleventh@multicore.csc.calpoly.edu'
+alias unix1='ssh bleventh@unix1.csc.calpoly.edu'
+alias unix2='ssh bleventh@unix2.csc.calpoly.edu'
+alias unix3='ssh bleventh@unix3.csc.calpoly.edu'
+alias unix4='ssh bleventh@unix4.csc.calpoly.edu'
 
 # Work ssh addresses.
-alias cmr='ssh cpatton@cominor.com'
+alias cmr='ssh bleventh@cominor.com'
 alias troll='ssh ifixit@Picture-Frame-Mini.local'
 alias lb='live_ssh ifixit.com'
 alias db='live_ssh db.ifixit.com'
