@@ -1,8 +1,8 @@
 [user]
-   name = Christopher Patton
-   email = chpatton013@gmail.com
+   name = Brandon Leventhal
+   email = bleventh@gmail.com
 [github]
-   user = chpatton013
+   user = bleventh
 [core]
    excludesfile = ~/.gitignore
 [color]
